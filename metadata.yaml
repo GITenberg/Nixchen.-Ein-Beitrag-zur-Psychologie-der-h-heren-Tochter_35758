@@ -1,0 +1,32 @@
+_repo: Nixchen.-Ein-Beitrag-zur-Psychologie-der-h-heren-Tochter_35758
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35758-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kahlenberg, Hans von
+    aliases:
+    - Montbart, Eva H. von
+    - Kessler, Helene
+    - Von Kahlenberg, Hans
+    birthdate: 1870
+    deathdate: 1957
+    gutenberg_agent_id: '37881'
+    url: http://www.gutenberg.org/2009/agents/37881
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35758'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PT'
+title: Nixchen. Ein Beitrag zur Psychologie der höheren Tochter
+url: http://www.gutenberg.org/ebooks/35758
